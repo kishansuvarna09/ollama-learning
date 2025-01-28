@@ -1,4 +1,4 @@
-import ollama
+import ollama # type: ignore
 desiredModel = 'deepseek-r1:1.5b'
 questionToAsk = 'What is the capital of India?'
 
